@@ -13,3 +13,7 @@ Drone Red Circle.py Dosyası kamera vasıtası ile tespit edilmiş Kırmızı da
 
 Simple Goto.py Dosyası Dronu'un çalışır duruma gelmesi, havalanması ve girilen koordinata hareket etmesini sağlar.
 
+
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/fb3cbc0c-2340-4204-8b91-1f0a1f1409df
+
