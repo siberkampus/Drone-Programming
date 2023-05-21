@@ -32,4 +32,11 @@ https://github.com/siberkampus/Drone-Programming/assets/84104008/48240fd8-a37e-4
 
 Ayrıca Ardupilot yer istasyonu programı ile haritadan belli koordinatlar seçerek drone'nun bu koordinatlara gitmesini sağlayabilirsiniz. Yani waypointler seçebilir ve bu waypointleri bir txt dosyasına ekleyerek kendi görev dosyanızı oluşturabilirsiniz.
 
+
+Uçurmayı başardığımız ancak pervanenin fırlamasıyla tepetaklak olan drone'umuz :)
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/da9c1d78-0f0a-469d-bed5-383d06ba565c
+
+
+
 2022 TEKNOFEST Yarışmasına hazırlanırken çalıştığım ekip arkadaşlarıma teşekkür ederim.
