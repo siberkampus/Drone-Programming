@@ -17,3 +17,12 @@ Simple Goto.py Dosyası Dronu'un çalışır duruma gelmesi, havalanması ve gir
 
 https://github.com/siberkampus/Drone-Programming/assets/84104008/fb3cbc0c-2340-4204-8b91-1f0a1f1409df
 
+
+
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/c928fafe-3e6a-44c9-852b-5836284375b8
+
+
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/48240fd8-a37e-47e2-b219-12413a012fff
+
