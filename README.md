@@ -13,24 +13,35 @@ Drone Red Circle.py Dosyası kamera vasıtası ile tespit edilmiş Kırmızı da
 
 Simple Goto.py Dosyası Dronu'un çalışır duruma gelmesi, havalanması ve girilen koordinata hareket etmesini sağlar.
 
-
-
 Burada Kırmızı daireyi tespit eden python kodunun nasıl çalıştığını görmektesiniz
 
+https://github.com/siberkampus/Drone-Programming/assets/84104008/6c5b01aa-3089-4b08-b568-b8ee0c0b7c7c
 
-https://github.com/siberkampus/Drone-Programming/assets/84104008/fb3cbc0c-2340-4204-8b91-1f0a1f1409df
+
+
+
+
+
 
 Burada Mavi daireyi tespit eden python kodunun nasıl çalıştığını görmektesiniz.
 
 
-https://github.com/siberkampus/Drone-Programming/assets/84104008/c928fafe-3e6a-44c9-852b-5836284375b8
+
+
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/108d23e1-e104-429b-92cc-f62d9d63b559
+
 
 
 
 Burada tespit ettiğimiz kırmızı dairenin üzerine drone'un konumlanmaya çalıştığını görmektesiniz. Drone kırmızı dairenin üzerinde konumlandığı zaman durmaktadır. Bu durumda kalkış iniş ya da görevler yapmayı deneyebilirsiniz. Kullanılan python kodu gazebo simülasyon programına entegre edilmiş ve dronun davranışları bu program içerisinde simülasyon edilmiştir.
 
 
-https://github.com/siberkampus/Drone-Programming/assets/84104008/48240fd8-a37e-47e2-b219-12413a012fff
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/29b4d86c-02ae-47a0-be95-a43199f078a1
+
+
+
 
 
 Ayrıca Ardupilot yer istasyonu programı ile haritadan belli koordinatlar seçerek drone'nun bu koordinatlara gitmesini sağlayabilirsiniz. Yani waypointler seçebilir ve bu waypointleri bir txt dosyasına ekleyerek kendi görev dosyanızı oluşturabilirsiniz.
