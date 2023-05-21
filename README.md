@@ -1,5 +1,5 @@
 # Drone-Programming
-Auto Mission.py Dosyası bir txt dosyası içerisine yazılmış WayPoint'leri okuyarak AUTO modda Drone'un bu noktalara girmesini sağlar.
+Auto Mission.py Dosyası bir txt dosyası içerisine yazılmış WayPoint'leri okuyarak AUTO modda Drone'un bu noktalara gitmesini sağlar.
 
 
 Auto Waypoint.py Dosyası bir txt dosyası içerisinde değil, doğrudan program içerisine eklenmis Waypointlere AUTO modda Drone'un hareket etmesini sağlar.
