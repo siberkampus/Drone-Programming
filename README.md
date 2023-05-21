@@ -35,7 +35,10 @@ Ayrıca Ardupilot yer istasyonu programı ile haritadan belli koordinatlar seçe
 
 Uçurmayı başardığımız ancak pervanenin fırlamasıyla tepetaklak olan drone'umuz :)
 
-https://github.com/siberkampus/Drone-Programming/assets/84104008/da9c1d78-0f0a-469d-bed5-383d06ba565c
+
+
+
+https://github.com/siberkampus/Drone-Programming/assets/84104008/eb5fd9d7-80f7-41d7-9e14-af550139b2e5
 
 
 
